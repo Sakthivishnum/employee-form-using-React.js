@@ -1,0 +1,79 @@
+
+.symbol{
+    margin: 20px 20px 10px 20px;
+}
+.title1,.title2,.title3{
+    background-color:black;
+    color: white;
+    text-decoration: none;
+    margin: 20px 5px;
+    text-align: center;
+    padding: 2px 8px ;
+    font-size: 20px;
+    font-weight: bold;
+}
+.register,.sign{
+    float: right;
+    margin: 20px 20px 10px 20px; 
+    text-decoration: none;
+    color: black;
+}
+.register{
+   padding: 5px 10px;
+   background-color:black;
+   color: white;
+   border-radius:10px ;
+}
+.title1{
+    text-align: center;
+    margin: 0px 5px 0px 600px;
+}
+.menuitem{
+    list-style: none;
+    display: flex;
+    text-align: center;
+    cursor: pointer;
+}
+.menuitem ul{
+    text-align: center;
+    margin: 100px 500px;
+}
+.home{
+    margin-left: 300px !important;
+    text-decoration: underline;
+    text-decoration-color:rgb(184, 0, 0);
+}
+.menuitem li{
+    margin:0px 30px;
+    font-weight:bold;
+}
+.menuitem li:hover{
+    text-decoration: underline;
+    text-decoration-color:rgb(184, 0, 0);
+}
+.listitem{
+    list-style: none;
+    display: flex;
+    text-align: center;
+    cursor: pointer;
+}
+.listitem ul{
+    text-align: center;
+    margin: 100px 500px;
+}
+.listitem li:hover{
+    background-color:whitesmoke;
+}
+.home1{
+    margin-left: 220px !important;
+}
+.listitem li{
+    margin:0px 30px;
+}
+hr{
+    margin: 0px 16px;
+    border-width: 5px;
+    height: 2px;
+    background-color: rgb(10, 10, 10);
+
+}

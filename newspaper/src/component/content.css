@@ -1,0 +1,23 @@
+.title{
+    color: rgb(184, 0, 0);
+    font-weight:bold;
+}
+hr{
+    border-top: 10px solid black;
+}
+.para,.para1,.para2{
+    text-align:left;
+}
+h5,p{
+    text-align:left;
+}
+.para:hover,h5:hover{
+    text-decoration: underline;
+}
+.content1 a{
+    font-size: 50px;
+    font-style: italic;
+    margin-right: 10px;
+}
+
+
